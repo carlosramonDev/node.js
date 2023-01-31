@@ -7,6 +7,14 @@ function handleError(error) {
 }
 
 function getFile(filePath) {
+    const encoding = 'utf_8';
+    fs.promises
+        .readFile(filePath, encoding)
+        .then((texto) => console.log(chalk.green(texto)))
+        .catch(handleError)
+}
+
+/* function getFile(filePath) {
     const encoding = 'utf-8';
     fs.readFile(filePath, encoding, (error, texto) => {
         if (error) {
@@ -14,7 +22,7 @@ function getFile(filePath) {
             }
         console.log(chalk.green(texto))
     })
-}
+} */
 
 getFile('./files/');
 
