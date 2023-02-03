@@ -7,7 +7,7 @@ const secondNumber = 2
 
 const mathOperation = firstNumber - secondNumber;
 
-console.log(mathOperation);
+console.log(mathOperation)
 
 // ponto flutuante
 
@@ -16,4 +16,4 @@ const floatingPointWithoutZero = .5;
 
 const newOperation = firstNumber / floatingPointNumber;
 
-console.log(newOperation);
+console.log(newOperation)

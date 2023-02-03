@@ -1,10 +1,10 @@
-const text1 = "Olá, mundo!";
-const senha = "senhaSuperSegura456!";
+const text1 = "hello, word!";
+const senha = "passwordSuperSafe456!";
 const stringNumber = "3255841";
 
-const citacao = "My name is ";
-const myName = "Leandro";
+const quote = "My name is ";
+const myName = "Ramon";
 
 //concatenação (+)
 
-console.log(citacao + myName);
+console.log(quote + myName)
