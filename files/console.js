@@ -1,13 +1,13 @@
 // log -> registro
 
-const minhaVar = true;
+const myVar = true;
 
 // console.log(245)
-// console.log("eu sou um texto")
-// console.log(minhaVar)
+// console.log("I am a text")
+// console.log(myVar)
 
-// tratamento de erro!
+// Error Handling!
 
-console.error('deu erro!');
+console.error('there was an error!');
 
-console.error(new Error("deu erro"));
+console.error(new Error("error"));
