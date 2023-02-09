@@ -1,14 +1,14 @@
 
 
-/* var respostaDeTudo = 42
-let idade = 29
+/* var answerOfAll = 42
+let age = 29
 const pi = 3.14 */
 
 {   
-    var respostaDeTudo = 3.14
-    let idade = 42
+    var answerOfAll = 3.14
+    let age = 42
     const pi = 29
-    console.log(respostaDeTudo, idade, pi)
+    console.log(answerOfAll, age, pi)
 
 }
-console.log(respostaDeTudo, idade, pi)
+console.log(answerOfAll, age, pi)
