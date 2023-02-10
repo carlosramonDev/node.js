@@ -5,7 +5,7 @@
 // ROLE DECLARATION
 
 // 1) declare the function
-                // string
+                   //2 -> sum value()
 function printText(text) {
   console.log(text)
 }
