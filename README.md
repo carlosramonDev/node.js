@@ -1,7 +1,4 @@
-# API REST_Node.js_TypeScript
+# API REST
 
-Esta é uma API REST para um sistema academico, desenvolvida com Node.js e TypeScript.
+Esta é uma API REST, desenvolvida com Node.js/TypeScript.
 
-## Requisitos
-- Node.js
-- TypeScript
